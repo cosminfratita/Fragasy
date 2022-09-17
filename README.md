@@ -1,22 +1,25 @@
-# Comision 34695
+Fragasy
+Ecommerce of perfumes industry
 
-> Ecommerce.
+This project is being built.
 
-This product is being built
+Available Scripts
+In the project directory, you can run:
 
-## Running Locally
+Running Locally
+$ git clone https://github.com/cosminfratita/fragasy.git
 
-```bash
+$ cd fragasy
+
 $ npm install
+
 $ npm start
-```
 
-## Environment Variables
+Route "/"
+This route navigates to where we can see all the products of the shop.
 
-See [`.env.example`](https://github.com/szuviria/zuvcommerce/blob/main/.env.example) for an example.
+Route "/category/:id
+This route navigates to where we can view the products filtered by categories.
 
-## Built Using
-
-- [Create-React-App](https://create-react-app.dev/)
-- [Firebase](https://firebase.com)
-
+Route "/detail/:id
+This route navigates to where we can view details of each product.
