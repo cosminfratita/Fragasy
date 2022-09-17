@@ -7,8 +7,6 @@ This product is being built
 ## Running Locally
 
 ```bash
-$ git clone https://github.com/szuviria/comision34695sab.git
-$ cd comision34695sab
 $ npm install
 $ npm start
 ```
